@@ -1,0 +1,21 @@
+{
+  "name": "play-memory-game",
+  "version": "1.0.0",
+  "description": "Sample project with a Cypress test that plays and wins The Walking Dead Memory Game.",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "Cypress",
+    "The Walking Dead",
+    "Testing",
+    "Talking About Testing"
+  ],
+  "author": "Walmyr <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}
